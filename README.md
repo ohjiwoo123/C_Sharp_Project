@@ -3,6 +3,7 @@ C# Language
 
 ## C# 언어 특징
 C#은 전역(Global)의 개념이 없다.(함수들이 Class내의 static 함수이거나, 멤버함수이다.  
+C#은 포인터(Pointer) 개념이 없다.  
 
 예를 들어서  
 ```
