@@ -44,7 +44,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="01_표준입출력.cs" />
-    <Compile Include="02_데이터타입.cs" />
+    <None Include="02_데이터타입.cs" />
+    <None Include="03_레퍼런스.cs" />
+    <None Include="04_제어문.cs" />
+    <None Include="05_클래스.cs" />
+    <None Include="06_함수.cs" />
+    <None Include="07_상속.cs" />
+    <None Include="08_인터페이스.cs" />
+    <None Include="09_컬렉션_inBCL.cs" />
+    <Compile Include="10_진화된타입.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
